@@ -686,11 +686,11 @@ body {
   background-size: cover;
       }
       .back-2{
-         background: url('./pic5.jpg') no-repeat center center;
+         background: url('./Pic5.jpg') no-repeat center center;
   background-size: cover;
       }
       .back-3{
-         background: url('./Pic5.jpg') no-repeat center center;
+         background: url('./pic5.jpg') no-repeat center center;
   background-size: cover;
       }
       .back-5{
@@ -922,4 +922,5 @@ footer strong {
 
 .btn3:hover {
     background-color:yellow;
+
 }
