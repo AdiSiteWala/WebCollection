@@ -686,11 +686,11 @@ body {
   background-size: cover;
       }
       .back-2{
-         background: url('./Pic5.jpg') no-repeat center center;
+         background: url('./pic5.jpg') no-repeat center center;
   background-size: cover;
       }
       .back-3{
-         background: url('./Pic5.jpg') no-repeat center center;
+         background: url('./pic5.jpg') no-repeat center center;
   background-size: cover;
       }
       .back-5{
@@ -924,3 +924,4 @@ footer strong {
     background-color:yellow;
 
 }
+
